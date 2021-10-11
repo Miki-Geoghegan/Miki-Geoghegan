@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey, I'm Miki 👋
+
+<p>I'm a Full Stack Developer with UX/UI skills (frontend design), based in Barcelona, Spain :sunflower:</p>
+
+<p>✨Since graduating from an intensive Ironhack Web Development Bootcamp I have been living and breathing code, focusing on creating clean and user-friendly applications✨</p>
+
+
 
 <!--
 **Miki-Geoghegan/Miki-Geoghegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
