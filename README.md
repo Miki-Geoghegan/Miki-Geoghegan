@@ -19,19 +19,17 @@
 ADD TO MYTHERESA APP - remove like button, add broken heart?
 **Miki-Geoghegan/Miki-Geoghegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hobbies
+## Hobbies
 
-- During my free time you can find me hitting streets with my Skateboard 🛹 or cooking different types of food 🍱
+- You can find me running :running: doing yoga or cooking and eating with friends :ramen:
 
 
 ## My Languages and tools
 
 <code><img alt="JavaScript" src="assets/javascript.png" ></code>
 <code><img alt="React" src="assets/react.png" ></code>
-<code><img alt="Angular" src="assets/angular.png" ></code>
 <code><img alt="CSS" src="assets/css.png" ></code>
 <code><img alt="MongoDB" src="assets/mongodb.png" ></code>
 <code><img alt="NodeJs" src="assets/nodejs.png" ></code>
-<code><img alt="TypeScript" src="assets/typescript.png" ></code>
 
 
