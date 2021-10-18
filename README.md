@@ -18,7 +18,7 @@
 
 ## Hobbies
 
-- You can find me running :running: doing yoga or cooking and eating with friends :ramen:
+- You can find me running :running:, doing yoga, or cooking and eating with friends :ramen:
 
 
 ## My Languages and tools
