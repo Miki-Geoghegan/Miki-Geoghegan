@@ -9,16 +9,14 @@
 
 ### What I'm working on
 
-<ul>
-<li>🧘🏻‍♀️Creating a Full Stack application for a yoga instructor and influencer, to promote classes and manage clients</li>
-<li>:books: Collaborating on a team project @BestReads to produce an online e-reader and e-book  storage facility</li>
-<li>:movie_camera: Improving my React skills by coding a handcrafted app @MYFLIX, without the use of a boilerplate or third-party library</li>
-<li>:pray: Looking to collaborate on further open source projects</li>
-</ul>
+ - 🧘🏻‍♀️Creating a Full Stack application for a yoga instructor and influencer, to promote classes and manage clients</li>
+- :books: Collaborating on a team project [Best Reads](https://github.com/Miki-Geoghegan/BestReads) to produce an online e-reader and e-book  storage facility</li>
+- :movie_camera: Improving my React skills by coding a handcrafted app [MYFLIX](https://github.com/Miki-Geoghegan/mytheresa-react-app), without the use of a boilerplate or third-party library</li>
+- :pray: Looking to collaborate on further open source projects</li>
 
 ## Hobbies
 
-- You can find me running :running:, doing yoga, or cooking and eating with friends :ramen:
+You can find me running :running:, doing yoga, or cooking and eating with friends :ramen:
 
 
 ## My Languages and tools
