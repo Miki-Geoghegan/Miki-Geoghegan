@@ -14,10 +14,7 @@
 <li>:books: Collaborating on a team project @BestReads to produce an online e-reader and e-book  storage facility</li>
 <li>:movie_camera: Improving my React skills by coding a handcrafted app @MYFLIX, without the use of a boilerplate or third-party library</li>
 <li>:pray: Looking to collaborate on further open source projects</li>
-</ul> 
-<!--
-ADD TO MYTHERESA APP - remove like button, add broken heart?
-**Miki-Geoghegan/Miki-Geoghegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</ul>
 
 ## Hobbies
 
